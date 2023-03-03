@@ -1,3 +1,5 @@
+;Hello my friends! This is my first project. You can help me improve it!
+
 using System;
 
 public class MyProgram
